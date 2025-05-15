@@ -1,1 +1,1 @@
-![img.png](data/img.png)
+![скриншот] (![img.png](img.png)пше)
