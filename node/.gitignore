@@ -1,0 +1,9 @@
+/data
+*.log
+*.tmp
+*.iml
+.idea/
+*.bak
+*.swp
+target/
+*.class
